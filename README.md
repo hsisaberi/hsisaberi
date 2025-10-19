@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hi! I'm Hossein Saberi <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80"></h2>
+<h2 align="center"> Hi! I'm Hossein Saberi </h2>
 
 ![Total Views](https://views.whatilearened.today/views/github/hsisaberi/hastagAB.svg)
 [![Linkedin: hsisaberi](https://img.shields.io/badge/-hsisaberi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hsisaberi/)](https://www.linkedin.com/in/hossein-saberi-89728619b/)
