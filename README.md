@@ -5,6 +5,8 @@
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat-square&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=XAQlwCEAAAAJ&hl=en)
 [![GitHub hsisaberi](https://img.shields.io/github/followers/hsisaberi?label=follow&style=social)](https://github.com/hsisaberi)
 
+Passionate about research, data, and building things that make sense — blending curiosity with code to solve real-world problems.
+
 - 📫 [Email](mailto:hossein.saberi1998@gmail.com)  
 
 
