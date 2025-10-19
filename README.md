@@ -40,7 +40,3 @@ Passionate about research, data, and building things that make sense — blendin
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hsisaberi&theme=github&cache_seconds=1800" alt="GitHub Activity Graph">
 </p>
-
-
----
-[![](https://img.shields.io/badge/Made%20With%20❤️%20By-hsisaberi-red)](https://github.com/hsisaberi)
