@@ -2,6 +2,7 @@
 
 ![Total Views](https://views.whatilearened.today/views/github/hsisaberi/hastagAB.svg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-saberi-89728619b/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat-square&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=XAQlwCEAAAAJ&hl=en)
 [![GitHub hsisaberi](https://img.shields.io/github/followers/hsisaberi?label=follow&style=social)](https://github.com/hsisaberi)
 
 - 📫 [Email](mailto:hossein.saberi1998@gmail.com)  
