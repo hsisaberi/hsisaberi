@@ -7,9 +7,11 @@
 
 Passionate about research, data, and building things that make sense — blending curiosity with code to solve real-world problems.
 
-- 📫 [Email](mailto:hossein.saberi1998@gmail.com)  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hsisaberi&theme=github&cache_seconds=1800" alt="GitHub Activity Graph">
+- 📫 [Email](mailto:hossein.saberi1998@gmail.com)
 
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 90px; margin: 100px 0;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hsisaberi&theme=github&cache_seconds=1800" alt="GitHub Activity Graph">
+</p>
 ---
 
 ### 🧰 Toolbox
@@ -38,5 +40,4 @@ Passionate about research, data, and building things that make sense — blendin
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=hsisaberi&theme=dracula" alt="Hossein's stat" /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=hsisaberi&show_icons=true&theme=dracula&count_private=true&" alt="Hossein's Github stat" />
-  <br/>
 </p>
