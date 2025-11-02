@@ -36,7 +36,9 @@ Passionate about research, data, and building things that make sense — blendin
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hsisaberi&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=SAMortazavi&show_icons=true&theme=dracula&count_private=true&" alt="Seyed's Github stat" />
+  <img src="https://streak-stats.demolab.com/?user=SAMortazavi&theme=dracula" alt="Seyed's stat" /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMortazavi&layout=compact&theme=dracula&langs_count=12"/>  
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hsisaberi&theme=github&cache_seconds=1800" alt="GitHub Activity Graph">
 </p>
