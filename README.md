@@ -36,8 +36,8 @@ Passionate about research, data, and building things that make sense — blendin
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hsisaberi&show_icons=true&theme=dracula&count_private=true&" alt="Hossein's Github stat" />
   <img src="https://streak-stats.demolab.com/?user=hsisaberi&theme=dracula" alt="Hossein's stat" /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=hsisaberi&show_icons=true&theme=dracula&count_private=true&" alt="Hossein's Github stat" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hsisaberi&theme=github&cache_seconds=1800" alt="GitHub Activity Graph">
 </p>
